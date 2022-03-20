@@ -1,6 +1,6 @@
 # Vanilla Bootstrap Practice
 
-Playing around with some components from bootstrap library for vanilla JavaScript.
+Playing around with some components from Bootstrap CSS framework for vanilla JavaScript.
 
 ## Link to React-Bootstrap Practice Repo
 
@@ -15,3 +15,7 @@ Playing around with some components from bootstrap library for vanilla JavaScrip
 ### React-Bootstrap:
 
 - https://woosik-react-bootstrap-practice.netlify.app
+
+### Material UI:
+
+- https://woosik-mui-practice.netlify.app
